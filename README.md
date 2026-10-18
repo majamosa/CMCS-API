@@ -39,3 +39,4 @@ Coordinator	CoordinatorID, FullName, Email
 Manager	ManagerID, FullName, Email
 
 Claim status flow: Pending → Verified → Approved (or Rejected).
+Lecturers
